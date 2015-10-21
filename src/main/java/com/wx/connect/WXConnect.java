@@ -39,4 +39,9 @@ public class WXConnect {
 		return userInfo;
 	}
 	
+	public static String getHigh(){
+		System.out.println("getHigh!");
+		return "NMB";
+	}
+	
 }
